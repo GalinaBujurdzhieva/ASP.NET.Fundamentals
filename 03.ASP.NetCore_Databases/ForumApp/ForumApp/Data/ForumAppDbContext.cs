@@ -1,6 +1,7 @@
 ﻿using ForumApp.Data.Configure;
 using ForumApp.Data.Models;
 using Microsoft.EntityFrameworkCore;
+using ForumApp.Models;
 
 namespace ForumApp.Data
 {
@@ -19,5 +20,7 @@ namespace ForumApp.Data
             builder.ApplyConfiguration<Post>(new PostConfiguration());
             base.OnModelCreating(builder);
         }
+
+        public DbSet<ForumApp.Models.PostViewModel> PostViewModel { get; set; }
     }
 }
