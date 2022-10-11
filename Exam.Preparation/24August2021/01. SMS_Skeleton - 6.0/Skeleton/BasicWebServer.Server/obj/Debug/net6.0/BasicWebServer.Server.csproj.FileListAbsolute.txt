@@ -1,27 +1,3 @@
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\refint\BasicWebServer.Server.dll
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
-C:\Users\Lenovo\Desktop\Galina\My stuff\ASP.Net Core - Web\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\refint\BasicWebServer.Server.dll
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
-C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exams\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
 C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exam.Preparation\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
 C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exam.Preparation\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
 C:\Users\Lenovo\source\repos\ASP.NET.Fundamentals\Exam.Preparation\24August2021\01. SMS_Skeleton - 6.0\Skeleton\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
