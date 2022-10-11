@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97d36483-f21b-4c68-a01d-275f222f9e40": {
+      "ProjectGuid": "97d36483-f21b-4c68-a01d-275f222f9e40",
+      "DisplayName": "BasicWebServer.Server",
+      "ColorIndex": 0
+    },
+    "df586722-c25c-4bdb-849b-b055b75d0166": {
+      "ProjectGuid": "df586722-c25c-4bdb-849b-b055b75d0166",
+      "DisplayName": "SMS",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
