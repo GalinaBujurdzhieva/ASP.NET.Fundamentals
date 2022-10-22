@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8zIOzP1mGFNHTFeGwJ37dbURZ3BVgoIcc0rWi99VZp51FGP5q9ma8HZPSgC+l3D3NPi2ttgtFlLWuQvtUAGXA==",
+  "dgSpecHash": "Uqt/9acHjuiM0uaXHtJ2jWjcTg4Ah9M05lpIrzMaH3Znfc+NzVyPM2/dFnLSyqpuOLPJNa/pK2LjsopCgVL20A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ASP.NET.Fundamentals\\Current exam preparation\\Watchlist\\Watchlist.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\ASP.NET.Fundamentals\\ASP.Net.Core_exam _preparation\\Watchlist\\Watchlist.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

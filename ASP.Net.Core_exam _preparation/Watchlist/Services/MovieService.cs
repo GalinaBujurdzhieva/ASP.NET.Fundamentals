@@ -127,8 +127,7 @@ namespace Watchlist.Services
                 throw new ArgumentException("User not found");
             }
 
-            var userMovie = await context.UsersMovies
-                .FirstOrDefaultAsync(m => m.MovieId == movieId);
+            var userMovie = user.UsersMovies.FirstOrDefault(m => m.MovieId == movieId);
 
             if (userMovie != null)
             {
